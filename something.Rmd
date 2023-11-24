@@ -1,3 +1,5 @@
 So what's the plan?
 
 [I want pizza](http://www.google.co.uk)
+
+![](img/reproducibility-graphic-online1.jpeg)
